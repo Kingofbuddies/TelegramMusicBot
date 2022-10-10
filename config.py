@@ -13,4 +13,4 @@ API_HASH = getenv("4e880dd4c6a4e7ca887bc2f20c67e0ff
 
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "160"))
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS").split()))
+SUDO_USERS = list(map(int, getenv("5623266595").split()))
